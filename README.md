@@ -47,11 +47,11 @@ This project focuses on optimizing online sales strategies in the USA using adva
 
 ## Results
 
-| Model                   | | Accuracy (%) |
-|-------------------------|-------- -----------|
-| **Linear Regression**   | `0.375`            | 
-| **Random Forest**       | `0.501`            |   
-| **Gradient Boosting**   | `0.473`            |  
+      | Model                   | | Accuracy (%) |
+      |-------------------------|-------- -----------|
+      | **Linear Regression**   | `0.375`            | 
+      | **Random Forest**       | `0.501`            |   
+      | **Gradient Boosting**   | `0.473`            |  
 
 **Best Model:** Gradient Boosting Regressor achieved the highest performance with an R² score of `X.XXX`, minimal errors, and an accuracy of `XX.XX%`, making it the most suitable model for predicting sales.
 
